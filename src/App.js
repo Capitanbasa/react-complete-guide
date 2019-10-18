@@ -30,6 +30,9 @@ class App extends Component {
     })
 
     }
+    togglePersonHandler = () => {
+    
+    }
 
   render(){
     const style ={
